@@ -1,0 +1,15 @@
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\bin\Debug\net6.0\GenericAndCollection.exe
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\bin\Debug\net6.0\GenericAndCollection.deps.json
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\bin\Debug\net6.0\GenericAndCollection.runtimeconfig.json
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\bin\Debug\net6.0\GenericAndCollection.dll
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\bin\Debug\net6.0\GenericAndCollection.pdb
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\GenericAndCollection.csproj.AssemblyReference.cache
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\GenericAndCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\GenericAndCollection.AssemblyInfoInputs.cache
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\GenericAndCollection.AssemblyInfo.cs
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\GenericAndCollection.csproj.CoreCompileInputs.cache
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\GenericAndCollection.dll
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\refint\GenericAndCollection.dll
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\GenericAndCollection.pdb
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\GenericAndCollection.genruntimeconfig.cache
+D:\workspace\Metrodata\DOTNET\OOP\GenericAndCollection\GenericAndCollection\obj\Debug\net6.0\ref\GenericAndCollection.dll
